@@ -1,3 +1,3 @@
 public class pacmanMrs {
-  p
+  System.out.println("appa");
 }
